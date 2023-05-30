@@ -3,10 +3,7 @@
 #### O JavaScript começa verificando se o navegador suporta a API Web Speech, e então cria um objeto para reconhecimento de fala. É definido o idioma utilizado para reconhecimento de fala e também é definido o comportamento do reconhecimento de fala (se deve continuar ou parar após o usuário parar de falar).
 
 #### Ao clicar no botão, o reconhecimento de fala é iniciado e, quando há resultados, o texto reconhecido é exibido na tela.
-s://media.giphy.com/media/Mqyv0mpCvMzeHJ1Xi1/gipts://img.shields.io/github/languages/top/agostinhomarcia/reconhecendo-voz?color=ff00ffs://img.shields.io/github/stars/agostinhomarcia/reconhecendo-vo
-<p align="center" >This project consists of a to-do list.
-Where you can add new tasks, mark completed tasks and even delete old task
-## :dart: About
+
 
 <h4 align="center"> Reconhecendo Voz </h4>
 
