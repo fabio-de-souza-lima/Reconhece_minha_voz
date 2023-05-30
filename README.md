@@ -86,8 +86,7 @@ $ cd reconhecendo-voz
 
 This project is under the [MIT license](./LICENSE).
 
-Criado  por  [Fabio de  Souza  lima]_(github.com/fabio-de-souza-lima )
-
+Criado  por  [Fabio de  Souza  lima]_(https://github.com/fabio-de-souza-lima )
 < p  alinhar = "centro" >
    <img src="https://media.giphy.com/media/ESPA5SdhTEnYWB77Hk/giphy.gif" alt="reconhecendo-voz" width="250"/>
 </p>
