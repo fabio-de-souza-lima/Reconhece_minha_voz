@@ -86,9 +86,9 @@ $ cd reconhecendo-voz
 
 This project is under the [MIT license](./LICENSE).
 
-Made with love by [Márcia Agostinho](https://github.com/agostinhomarcia) 🚀.
+Criado  por  [Fabio de  Souza  lima]_(github.com/fabio-de-souza-lima )
 
-<p align="center">
+< p  alinhar = "centro" >
    <img src="https://media.giphy.com/media/ESPA5SdhTEnYWB77Hk/giphy.gif" alt="reconhecendo-voz" width="250"/>
 </p>
 
