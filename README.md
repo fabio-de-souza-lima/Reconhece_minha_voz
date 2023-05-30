@@ -33,7 +33,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/agostinhomarcia/reconhecendo-voz.git
+$ git clone https://github.com/fabio-de-souza-lima/Reconhece_minha-voz.git
 # Access
 $ cd reconhecendo-voz
 # The server will initialize in the <http://localhost:3000>
@@ -43,7 +43,7 @@ $ cd reconhecendo-voz
 
 This project is under the [MIT license](./LICENSE).
 
-Criado  por  [Fabio de  Souza  lima]_(https://github.com/fabio-de-souza-lima 
+Criado  por  [Fabio de  Souza  lima]_(https://github.com/fabio-de-souza-lima)
 
 
 < p  alinhar = "centro" >
